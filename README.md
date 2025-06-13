@@ -1,0 +1,2 @@
+# Netflix-Global-Performance-Dashboard-End-to-End-BI-Pipeline-using-Snowflake-SQL-ML-Tableau
+This repository showcases an end-to-end Business Intelligence solution designed to help Netflix make data-driven content decisions using official Top 10 global and regional datasets. Built as part of my MSc Business Analytics program, the project demonstrates a complete pipeline—from raw data ingestion to predictive dashboarding.
